@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Alex Morgan — Independent developer',
-  description: 'Selected work and notes from Alex Morgan, an independent product developer.',
+  title: 'A S Parisya Bintang Marzuki - Portfolio',
+  description: 'Selected work and notes from A S Parisya Bintang Marzuki, an independent product developer.',
 };
 
 export default function RootLayout({ children }) {
